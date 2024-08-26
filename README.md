@@ -16,11 +16,11 @@ Example of integration:
 
 import Modal  from "modal-wh"
 
-<Modal title={titleModale} message={messageModale}  type={infoModale} image={image} show={modale} onclose={closeModale}/>
+< Modal title={titleModale} message={messageModale}  type={infoModale} image={image} show={modale} onclose={closeModale} />
 
-title : title of modal
-message : message details of modal
-type : "success","warning" or "error" -> (The icon displayed is different depending on the type)
-image : if you want specif icon, provide it
-show : if not null, display modal
-onclose : function called to close the modal
+- title : title of modal
+- message : message details of modal
+- type : "success","warning" or "error" -> (The icon displayed is different depending on the type)
+- image : if you want specif icon, provide it
+- show : if not null, display modal
+- onclose : function called to close the modal
