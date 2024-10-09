@@ -2,15 +2,18 @@
 
 This repo contains all a package to create modal.
 
+## 1. Requirement
 
-## 1. Depedencies
+- Node : v18.16.1
+- Editor : VSCode
 
-To use this package, you need to install these dependencies :
-- npm install sass
-- npm install react
-- npm install react-dom
+## 2. Depedencies
 
-## 2. Exemple
+To use this package, you need to install these dependencies (sass, react, react-dom):
+
+- to install "npm install"
+
+## 3. Exemple
 
 Example of integration:
 

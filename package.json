@@ -1,6 +1,6 @@
 {
   "name": "modal-wh",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Package for creating modal in react",
   "main": "src/modal.jsx",
   "scripts": {
